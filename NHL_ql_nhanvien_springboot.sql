@@ -81,12 +81,3 @@ VALUES
 SELECT * FROM Department;
 SELECT * FROM `Account`;
 SELECT * FROM Registration_Account_Token;
-
--- $2a$10$TsTMXD/vJjvCUrZSyXgB4.4SNpVmExM5G/t0r4Mw5tV1NXPHnZDnm
-
-
--- SELECT * FROM `Account` WHERE department_id IS NULL OR department_id = 10;
--- SELECT COUNT(id) FROM BaiBao WHERE danhmuc_id = 1;
--- UPDATE `Account` SET username = 'demoupdsasdaate', department_id = 3 WHERE id = 9;
--- UPDATE `Account` SET password = 'demoupdsasdaate' WHERE email = 'email4@gmail.com';
--- UPDATE `Account` SET `role` ='MANAGER' WHERE id =4;
